@@ -1,2 +1,1 @@
-# reverseDelete-prim
-Reverse-delete and Prim algorithms (minimum spanning tree)
+# Reverse-delete and Prim algorithms (minimum spanning tree) + NetworkX
